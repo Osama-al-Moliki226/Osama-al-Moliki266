@@ -1,40 +1,29 @@
-<div align="center">
-  <img src="https://share.google/SHS2C0r4Cdzq0CLQi?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="صورة خلفية جذابة" width="100%"/>
-</div>
+<div dir="rtl" align="center">
 
-<div dir="rtl" align="right">
-  <table>
-    <tr>
-      <td width="75%">
-        <h1 align="center">Don't focus too much on it</h1>
-        <p align="center">
-          <em>لست جزءاً من النظام، <strong>أنا النظام</strong>. مهندس برمجيات أعيد تعريف حدود الممكن، سطرًا واحدًا في كل مرة.</em>
-        </p>
-        <p align="center">
-          <em>اسمي يتردد في همسات الخوادم. بعضهم يسميني مطوراً، وآخرون ساحراً. الحقيقة أبسط وأكثر تعقيداً: <strong>أنا من يفرض منطقه على الآلة</strong>.</em>
-        </p>
-      </td>
-      <td width="25%" align="center">
-        <img src="https://i.imgur.com/removed.png" style="border-radius: 50%; width: 150px; height: 150px;" alt="صورتي الشخصية"/>
-      </td>
-    </tr>
-  </table>
-</div>
+# Don't focus too much on it
 
 <br>
+
+> لست جزءاً من النظام، **أنا النظام**.
+> 
+> مهندس برمجيات أعيد تعريف حدود الممكن، سطرًا واحدًا في كل مرة.
+
+> اسمي يتردد في همسات الخوادم. بعضهم يسميني مطوراً، وآخرون ساحراً.
+> 
+> الحقيقة أبسط وأكثر تعقيداً: **أنا من يفرض منطقه على الآلة**.
+
+<br>
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=osama-al-moliki266&show_icons=true&theme=tokyonight&hide_border=true&locale=ar" alt="إحصائيات GitHub" />
-  
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=osama-al-moliki266&theme=tokyonight&hide_border=true" alt="إحصائيات الحماس" />
 </div>
 
-<br>
+---
 
-<h3 align="center">تواصل معي إن احتجت لأي شيء </h3>
+### تواصل معي إن احتجت لأي شيء
 
 <p align="center">
   <a href="https://www.instagram.com/osama.moliki" target="_blank">
@@ -53,3 +42,5 @@
     <img src="https://img.shields.io/badge/Website-4A4A4A?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
 </p>
+
+</div>
