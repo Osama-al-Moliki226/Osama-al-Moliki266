@@ -34,7 +34,7 @@
 
 <br>
 
-<h3 align="center">تواصل معي حيث أصنع المستقبل</h3>
+<h3 align="center">تواصل معي إن احتجت لأي شيء </h3>
 
 <p align="center">
   <a href="https://www.instagram.com/osama.moliki" target="_blank">
