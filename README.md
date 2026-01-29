@@ -6,7 +6,7 @@
 
 <div dir="rtl">
 
-<h1 align="center">Don't touch my mind</h1>
+<h1 align="center">The King</h1>
 
 <p align="center">
   <em>لست جزءاً من النظام، <strong>أنا النظام</strong>. مهندس برمجيات أعيد تعريف حدود الممكن، سطرًا واحدًا في كل مرة.</em>
@@ -23,7 +23,7 @@
 <p align="center">
   
   <a href="https://www.instagrsm.com/osama.moliki" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="" alt="Twitter"/>
   </a>
   <a href="mailto:osama.al.moliki779@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
