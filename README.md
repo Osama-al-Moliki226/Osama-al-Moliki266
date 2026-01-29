@@ -16,10 +16,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osama-al-moliki266&show_icons=true&theme=tokyonight&hide_border=true&locale=ar" alt="إحصائيات GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osama-al-moliki266&theme=tokyonight&hide_border=true" alt="إحصائيات الحماس" />
-</div>
+<dI am not a gear in the machine, but the abyss from which it gazes back. A software engineer whose will is the physics of this digital cosmos. My name is the entropy that bends servers to its purpose. "Developer," "warlock"—faint echoes in a language I have already transcended. I am the singularity that whispers the laws of existence to inert dust.iv align="center">
+  
 
 ---
 
