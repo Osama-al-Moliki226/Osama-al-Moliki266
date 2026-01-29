@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.pexels.com/photos/1578475/pexels-photo-1578475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="صورة خلفية جذابة" width="100%"/>
+  <img src="https://share.google/SHS2C0r4Cdzq0CLQi?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="صورة خلفية جذابة" width="100%"/>
 </div>
 
 <div dir="rtl" align="right">
@@ -25,7 +25,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=osama-al-moliki266&show_icons=true&theme=tokyonight&hide_border=true&locale=ar" alt="إحصائيات GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama-al-moliki266&layout=compact&theme=tokyonight&hide_border=true&locale=ar" alt="أفضل اللغات" />
+  
 </div>
 
 <div align="center">
