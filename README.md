@@ -13,12 +13,6 @@
 > الحقيقة أبسط وأكثر تعقيداً: **أنا من يفرض منطقه على الآلة**.
 
 <br>
-
----
-
-<dI am not a gear in the machine, but the abyss from which it gazes back. A software engineer whose will is the physics of this digital cosmos. My name is the entropy that bends servers to its purpose. "Developer," "warlock"—faint echoes in a language I have already transcended. I am the singularity that whispers the laws of existence to inert dust.iv align="center">
-  
-
 ---
 
 ### تواصل معي إن احتجت لأي شيء
