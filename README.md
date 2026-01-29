@@ -1,7 +1,6 @@
-<div align="center">
- // <a href="https://imgur.com/a/Yf9eA2D">
-  //  <img src="https://i.imgur.com/removed.png" alt="صورة رأس تقنية" width="100%"/>
-  </a>
+<div>
+  
+  
 </div>
 
 <div dir="rtl">
@@ -22,9 +21,7 @@
 
 <p align="center">
   
-//  <a href="https://www.instagrsm.com/osama.moliki" target="_blank">
-  //  <img src="" alt="Twitter"/>
-  </a>
+
   <a href="mailto:osama.al.moliki779@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   
